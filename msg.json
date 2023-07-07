@@ -1,1 +1,5 @@
-{"update":"null","url":"null","version":"1.0.0"}
+{
+    "update": "Click this message to download the updated version of the PikaStatsMod.",
+    "url": "https://github.com/chetan0402/PikaStatsChecker/releases",
+    "version": "1.0.1"
+}
